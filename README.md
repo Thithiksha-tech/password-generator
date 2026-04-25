@@ -1,2 +1,1 @@
-Here is a password generator which genrates rnadom passwords
-for personal use according to our requirements
+A JavaScript-based password generator that creates secure and random passwords with customizable options.
